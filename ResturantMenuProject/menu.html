@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kumar's Non-Veg Hub</title>
+    <link rel="stylesheet" href="menu.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="header">
+      <div class="brand">
+        <h4 class="brand-subtitle">[KUMAR'S]</h4>
+        <h1 class="brand-title">"THE NON-VEG HUB"</h1>
+        <p class="brand-tagline">
+          Authentic Flavors • Premium Quality • Since 1995
+        </p>
+      </div>
+
+      <div class="dark-mode-toggle">
+        <label>
+          <input type="checkbox" id="darkModeToggle" />
+          <span class="slider"></span>
+        </label>
+        <span>Dark Mode</span>
+      </div>
+
+      <nav>
+        <ul class="desktop-nav">
+          <li><a href="#about">About</a></li>
+          <li><a href="#menu">Menu</a></li>
+          <li><a href="#reviews">Reviews</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+
+        <button class="mobile-btn" id="mobileMenuBtn">
+          <span></span><span></span><span></span>
+        </button>
+
+        <ul class="mobile-nav hidden" id="mobileMenu">
+          <li><a href="#about">About</a></li>
+          <li><a href="#menu">Menu</a></li>
+          <li><a href="#reviews">Reviews</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+      <h2>NOW YOU CAN ORDER DIRECTLY FROM HERE</h2>
+      <p>IT'S REQUIRED JUST LOGIN <span>😋</span></p>
+    </section>
+
+    <!-- Login -->
+    <section class="login" id="login">
+      <h3>LOGIN/SIGNUP CENTER</h3>
+      <form class="login-form" action="action_page.php">
+        <label for="username">Customer ID</label>
+        <input
+          type="text"
+          id="username"
+          name="username"
+          placeholder="Enter username"
+          required
+        />
+
+        <label for="pwd">Password</label>
+        <input
+          type="password"
+          id="pwd"
+          name="pwd"
+          placeholder="Enter password"
+          required
+        />
+
+        <label for="dob">Date of Birth</label>
+        <input type="date" id="dob" name="dob" required />
+
+        <button type="submit">Login</button>
+      </form>
+    </section>
+
+    <!-- Starters -->
+    <section class="starters" id="menu">
+      <h2>STARTERS</h2>
+      <p>Begin your culinary journey with our signature appetizers</p>
+
+      <img
+        src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400"
+        alt="Delicious Indian starters"
+      />
+
+      <dl class="menu-list">
+        <dt>CHICKEN TANDOORI</dt>
+        <dd>
+          Chicken marinated in yogurt and spices, then grilled in a tandoor
+          oven.
+        </dd>
+
+        <dt>CHICKEN 65</dt>
+        <dd>
+          A popular South Indian deep-fried chicken dish, known for its spicy
+          and tangy flavor.
+        </dd>
+
+        <dt>CHICKEN LOLLIPOP</dt>
+        <dd>
+          Marinated chicken pieces coated with a breadcrumb mixture and
+          deep-fried, often served with a dipping sauce.
+        </dd>
+
+        <dt>CHICKEN MALAI KABAB</dt>
+        <dd>
+          Chicken marinated in a cream and spice mixture, then grilled or baked.
+        </dd>
+
+        <dt>CHICKEN TIKKA</dt>
+        <dd>Similar to Paneer Tikka, but using chicken instead of paneer.</dd>
+
+        <dt>PRAWN FRY</dt>
+        <dd>Prawns deep-fried in a spiced batter.</dd>
+      </dl>
+    </section>
+
+    <!-- Main Course Overview -->
+    <section class="overview">
+      <h2>Our Popular Non-Veg Main Courses</h2>
+
+      <img
+        src="https://images.unsplash.com/photo-1631452180519-c014fe946bc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400"
+        alt="Indian main course dishes"
+      />
+
+      <div class="categories">
+        <div class="card">
+          <h3>CHICKEN</h3>
+          <p>Chicken Biryani, Butter Chicken, Chicken Tikka Masala</p>
+        </div>
+
+        <div class="card">
+          <h3>MUTTON/LAMB</h3>
+          <p>
+            Biryani, Mutton Curry, Mutton Rogan Josh, Lamb Chops, Mutton Keema
+            Matar, Mutton Handi, Laal Maas
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>SEAFOOD</h3>
+          <p>
+            Prawns Masala, Prawns Curry, Fish Curry, Lemon Pepper Fish,
+            Thalassery Prawns Curry, Goan Fish Curry
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>OTHER SPECIALTIES</h3>
+          <p>
+            Egg Curry, Seekh Kebabs, Chicken Dum Biryani, Mutton Dum Biryani
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>SIDE DISHES</h3>
+          <p>Raita (yogurt sauce), Naan, Roti, and other breads</p>
+        </div>
+
+        <div class="card">
+          <h3>PICKLES & CHUTNEY</h3>
+          <p>Traditional accompaniments to enhance your meal</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Ordering -->
+    <section class="ordering">
+      <h2>ORDERING PHASE</h2>
+      <p class="quote">
+        "YOUR CRAVINGS OUR KITCHEN" – "ORDER ANYTHING YOU LOVE!" "FROM CHICKEN
+        TO FRY – YOU NAME IT, WE SERVE IT!" WARRIOR 😎
+      </p>
+
+      <img
+        src="https://images.unsplash.com/photo-1608039829572-78524f79c4c7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400"
+        alt="Fresh chicken preparation"
+      />
+
+      <h3>
+        CHOOSE YOUR <del><small>LOVE</small></del
+        ><ins> STARTERS</ins> ❤
+      </h3>
+
+      <!-- Chicken Starters -->
+      <div class="menu-section">
+        <h4>🍗 CHICKEN STARTERS</h4>
+        <form class="menu-form change">
+          <div class="items">
+            <label
+              ><input
+                type="checkbox"
+                id="starterchicken-1"
+                name="chicken"
+              /><span>CHICKEN TANDOORI</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="starterchicken-2"
+                name="chicken"
+              /><span>CHICKEN MANCHURIAN</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="starterchicken-3"
+                name="chicken"
+              /><span>CHICKEN DEEP FRY</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="starterchicken-4"
+                name="chicken"
+              /><span>CHICKEN 65</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="starterchicken-5"
+                name="chicken"
+              /><span>CHICKEN MALAI KABAB</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="starterchicken-6"
+                name="chicken"
+              /><span>CHICKEN TIKKA</span></label
+            >
+          </div>
+          <button type="submit">Add to Order</button>
+        </form>
+      </div>
+
+      <!-- Mutton Starters -->
+      <div class="menu-section">
+        <h4>🥩 MUTTON STARTERS</h4>
+        <form class="menu-form change">
+          <div class="items">
+            <label
+              ><input type="checkbox" id="startermutton-1" name="mutton" /><span
+                >MUTTON CHOPS</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="startermutton-2" name="mutton" /><span
+                >MUTTON SEEKH KEBABS</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="startermutton-3" name="mutton" /><span
+                >MUTTON MANCHURIAN</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="startermutton-4" name="mutton" /><span
+                >MUTTON DEEP FRY</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="startermutton-5" name="mutton" /><span
+                >MUTTON 65</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="startermutton-6" name="mutton" /><span
+                >MUTTON MALAI KABAB</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="startermutton-7" name="mutton" /><span
+                >MUTTON TIKKA</span
+              ></label
+            >
+          </div>
+          <button type="submit">Add to Order</button>
+        </form>
+      </div>
+
+      <!-- Prawns Starters -->
+      <div class="menu-section">
+        <h4>🦐 PRAWNS STARTERS</h4>
+        <img
+          src="https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=300"
+          alt="Fresh prawns"
+        />
+        <form class="menu-form change">
+          <div class="items">
+            <label
+              ><input type="checkbox" id="starterprawns-1" name="prawns" /><span
+                >MASALA FRIED PRAWNS</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterprawns-2" name="prawns" /><span
+                >CHILLI PRAWNS</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterprawns-3" name="prawns" /><span
+                >PRAWNS KALIWADA</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterprawns-4" name="prawns" /><span
+                >PRAWNS DEEP FRY</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterprawns-5" name="prawns" /><span
+                >PRAWNS 65</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterprawns-6" name="prawns" /><span
+                >SPICY ANDHRA PRAWNS</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterprawns-7" name="prawns" /><span
+                >PRAWNS TIKKA</span
+              ></label
+            >
+          </div>
+          <button type="submit">Add to Order</button>
+        </form>
+      </div>
+
+      <!-- Fish Starters -->
+      <div class="menu-section">
+        <h4>🐟 FISH STARTERS</h4>
+        <form class="menu-form change">
+          <div class="items">
+            <label
+              ><input type="checkbox" id="starterfish-1" name="fish" /><span
+                >MASALA FRIED FISH</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterfish-2" name="fish" /><span
+                >CHILLI FISH</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterfish-3" name="fish" /><span
+                >FISH KALIWADA</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterfish-4" name="fish" /><span
+                >FISH DEEP FRY</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterfish-5" name="fish" /><span
+                >FISH 65</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterfish-6" name="fish" /><span
+                >APOLLO FISH</span
+              ></label
+            >
+            <label
+              ><input type="checkbox" id="starterfish-7" name="fish" /><span
+                >FISH TIKKA</span
+              ></label
+            >
+          </div>
+          <button type="submit">Add to Order</button>
+        </form>
+      </div>
+    </section>
+
+    <!-- Main Course -->
+    <section class="main-course">
+      <h2>MAIN COURSE PHASE</h2>
+      <h3>
+        CHOOSE YOUR <del><small>LOVE</small></del
+        ><ins> MAIN COURSE</ins> ❤
+      </h3>
+      <p class="quote">
+        "CHOOSING A MAIN COURSE IS TOUGH BUT WE'RE HERE FOR YOU" 😎
+      </p>
+
+      <!-- Chicken Main Course -->
+      <div class="menu-section">
+        <h4>🍗 CHICKEN MAIN COURSE</h4>
+        <form class="menu-form change">
+          <div class="items">
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursechicken-1"
+                name="chicken"
+              /><span>CHICKEN BIRYANI</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursechicken-2"
+                name="chicken"
+              /><span>CHICKEN MUGHALAI BIRYANI</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursechicken-3"
+                name="chicken"
+              /><span>CHICKEN DO PYAZA</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursechicken-4"
+                name="chicken"
+              /><span>FRY-BIT BIRYANI</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursechicken-5"
+                name="chicken"
+              /><span>HYDERABADI DUM BIRYANI</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursechicken-6"
+                name="chicken"
+              /><span>CHICKEN TIKKA MASALA</span></label
+            >
+          </div>
+          <button type="submit">Add to Order</button>
+        </form>
+      </div>
+
+      <!-- Mutton Main Course -->
+      <div class="menu-section">
+        <h4>🥩 MUTTON MAIN COURSE</h4>
+        <form class="menu-form change">
+          <div class="items">
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursemutton-1"
+                name="mutton"
+              /><span>MUTTON ROGAN JOSH</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursemutton-2"
+                name="mutton"
+              /><span>MUTTON SEEKH KEBABS</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursemutton-3"
+                name="mutton"
+              /><span>MUTTON STEW</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursemutton-4"
+                name="mutton"
+              /><span>MUTTON KEEMA</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursemutton-5"
+                name="mutton"
+              /><span>MUTTON NIHARI</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursemutton-6"
+                name="mutton"
+              /><span>MUTTON MALAI KABAB</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursemutton-7"
+                name="mutton"
+              /><span>MUTTON TIKKA</span></label
+            >
+          </div>
+          <button type="submit">Add to Order</button>
+        </form>
+      </div>
+
+      <!-- Prawns Main Course -->
+      <div class="menu-section">
+        <h4>🦐 PRAWNS MAIN COURSE</h4>
+        <form class="menu-form change">
+          <div class="items">
+            <label
+              ><input
+                type="checkbox"
+                id="maincourseprawns-1"
+                name="prawns"
+              /><span>MASALA FRIED PRAWNS</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincourseprawns-2"
+                name="prawns"
+              /><span>CHILLI PRAWNS BIRYANI</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincourseprawns-3"
+                name="prawns"
+              /><span>PRAWNS KALIWADA</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincourseprawns-4"
+                name="prawns"
+              /><span>PRAWNS DEEP FRY</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincourseprawns-5"
+                name="prawns"
+              /><span>PRAWNS PULUSU BIRYANI</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincourseprawns-6"
+                name="prawns"
+              /><span>SPICY ANDHRA PRAWNS</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincourseprawns-7"
+                name="prawns"
+              /><span>PRAWNS TIKKA</span></label
+            >
+          </div>
+          <button type="submit">Add to Order</button>
+        </form>
+      </div>
+
+      <!-- Fish Main Course -->
+      <div class="menu-section">
+        <h4>🐟 FISH MAIN COURSE</h4>
+        <form class="menu-form change">
+          <div class="items">
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursefish-1"
+                name="maincoursefish"
+              /><span>MASALA FRIED FISH</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursefish-2"
+                name="maincoursefish"
+              /><span>CHILLI FISH</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursefish-3"
+                name="maincoursefish"
+              /><span>FISH KALIWADA</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursefish-4"
+                name="maincoursefish"
+              /><span>FISH DEEP FRY</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursefish-5"
+                name="maincoursefish"
+              /><span>FISH 65</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursefish-6"
+                name="maincoursefish"
+              /><span>APOLLO FISH</span></label
+            >
+            <label
+              ><input
+                type="checkbox"
+                id="maincoursefish-7"
+                name="maincoursefish"
+              /><span>FISH TIKKA</span></label
+            >
+          </div>
+          <button
+            type="button"
+            class="final-btn"
+            onclick="showThankYouMessage()"
+          >
+            🎯 PLACE ORDER
+          </button>
+        </form>
+      </div>
+    </section>
+
+    <!-- Reviews -->
+    <section class="reviews" id="reviews">
+      <h2>CUSTOMER REVIEW PHASE</h2>
+      <p>
+        We'd love to hear from you! Please share your experience with our food
+        and service. <strong>Your feedback matters!</strong> Tell us how your
+        order went and help us serve you better 😎
+      </p>
+
+      <form class="review-form">
+        <label for="review">Share Your Experience</label>
+        <textarea
+          name="review"
+          id="review"
+          rows="8"
+          placeholder="Type your valuable review here - we're glad to hear from you"
+        ></textarea>
+        <button type="submit">Submit Review</button>
+      </form>
+
+      <div class="preferences">
+        <form action="/action_page.php">
+          <label for="course">Choose Your Favorite Course</label>
+          <select name="course" id="course">
+            <option value="starters">STARTERS</option>
+            <option value="main course">MAIN COURSE</option>
+          </select>
+          <button type="submit">Save</button>
+        </form>
+
+        <form action="/action_page.php">
+          <label for="nonveg">Choose Your Favorite Non-Veg</label>
+          <select name="nonveg" id="nonveg">
+            <option value="chicken">CHICKEN</option>
+            <option value="mutton">MUTTON</option>
+            <option value="fish">FISH</option>
+            <option value="prawns">PRAWNS</option>
+            <option value="seafood">SEA FOOD</option>
+          </select>
+          <button type="submit">Save</button>
+        </form>
+
+        <form action="/action_page.php">
+          <label for="dish">Select Your Favorite Dish</label>
+          <select name="dish" id="dish">
+            <option value="chicken-biryani">CHICKEN SPL BIRYANI</option>
+            <option value="mutton-keema">MUTTON KEEMA BIRYANI</option>
+            <option value="fish-biryani">FISH SPICY BIRYANI</option>
+            <option value="prawns-kaliwada">KALIWADA PRAWNS</option>
+            <option value="seafood-special">SPL SEA FOOD</option>
+          </select>
+          <button type="submit">Save</button>
+        </form>
+      </div>
+
+      <p class="feedback-note">
+        "JUST A SMALL FEEDBACK FROM YOUR SIDE IT HELPS US KNOW MORE ABOUT
+        <strong>CUSTOMER CRAVINGS</strong>"
+      </p>
+    </section>
+
+    <!-- Contact -->
+    <section class="contact" id="contact">
+      <h2>CUSTOMER SERVICE PHASE</h2>
+      <p>
+        <strong
+          >FOR ANY MISTAKES FROM OUR SIDE OR QUERIES PLEASE CONSIDER OUR
+          SERVICES</strong
+        >
+      </p>
+
+      <table class="service-table">
+        <caption>
+          <strong>CUSTOMER SERVICE DETAILS</strong>
+        </caption>
+        <thead>
+          <tr>
+            <th>STATE</th>
+            <th>CONTACT NO</th>
+            <th>EMAIL</th>
+            <th colspan="2">CUSTOMER SERVICE TIMINGS</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>ANDHRA PRADESH</td>
+            <td>+91 88810 00250</td>
+            <td>kumarnonveghub@gmail.com</td>
+            <td>MON-SUN</td>
+            <td><time>24/7</time> SERVICES</td>
+          </tr>
+          <tr>
+            <td>TELANGANA</td>
+            <td>+91 88810 00252</td>
+            <td>kumarnonveghub@gmail.com</td>
+            <td>MON-SUN</td>
+            <td><time>24/7</time> SERVICES</td>
+          </tr>
+          <tr>
+            <td>TAMIL NADU</td>
+            <td>+91 88810 00254</td>
+            <td>kumarnonveghub@gmail.com</td>
+            <td>MON-SUN</td>
+            <td><time>24/7</time> SERVICES</td>
+          </tr>
+          <tr>
+            <td>MUMBAI</td>
+            <td>+91 88810 00256</td>
+            <td>kumarnonveghub@gmail.com</td>
+            <td>MON-SUN</td>
+            <td><time>24/7</time> SERVICES</td>
+          </tr>
+          <tr>
+            <td>DELHI</td>
+            <td>+91 88810 00258</td>
+            <td>kumarnonveghub@gmail.com</td>
+            <td>MON-SUN</td>
+            <td><time>24/7</time> SERVICES</td>
+          </tr>
+          <tr>
+            <td>KARNATAKA</td>
+            <td>+91 88810 00260</td>
+            <td>kumarnonveghub@gmail.com</td>
+            <td>MON-SUN</td>
+            <td><time>24/7</time> SERVICES</td>
+          </tr>
+          <tr>
+            <td>MAHARASHTRA</td>
+            <td>+91 88810 00262</td>
+            <td>kumarnonveghub@gmail.com</td>
+            <td>MON-SUN</td>
+            <td><time>24/7</time> SERVICES</td>
+          </tr>
+          <tr>
+            <td>KERALA</td>
+            <td>+91 88810 00264</td>
+            <td>kumarnonveghub@gmail.com</td>
+            <td>MON-SUN</td>
+            <td><time>24/7</time> SERVICES</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 Kumar's Non-Veg Hub. All rights reserved.</p>
+    </footer>
+
+    <script src="menu.js"></script>
+  </body>
+</html>
