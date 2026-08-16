@@ -78,9 +78,9 @@ Currently pursuing my **B.Tech in Artificial Intelligence and Data Science**, I 
       <img src="https://img.shields.io/badge/JavaScript-151C24?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-151C24?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       <img src="https://img.shields.io/badge/HTML5-151C24?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-151C24?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+      <img src="https://img.shields.io/badge/CSS3-151C24?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
       <img src="https://img.shields.io/badge/Python-151C24?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-151C24?style=flat-square&logo=postgresql&logoColor=4479A1" alt="SQL" />
+      <img src="https://img.shields.io/badge/SQL-151C24?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQL" />
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ Currently pursuing my **B.Tech in Artificial Intelligence and Data Science**, I 
       <img src="https://img.shields.io/badge/Express.js-151C24?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/Next.js_Server_Actions-151C24?style=flat-square&logo=nextdotjs&logoColor=white" alt="Server Actions" />
       <img src="https://img.shields.io/badge/PostgreSQL-151C24?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/REST_APIs-151C24?style=flat-square&logoColor=38BDF8" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/REST_APIs-151C24?style=flat-square&logo=postman&logoColor=FF6C37" alt="REST APIs" />
     </td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ Currently pursuing my **B.Tech in Artificial Intelligence and Data Science**, I 
       <img src="https://img.shields.io/badge/GitHub_Actions-151C24?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Jest-151C24?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
       <img src="https://img.shields.io/badge/Postman-151C24?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
-      <img src="https://img.shields.io/badge/VS_Code-151C24?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+      <img src="https://img.shields.io/badge/VS_Code-151C24?style=flat-square&logo=vscodium&logoColor=007ACC" alt="VS Code" />
     </td>
   </tr>
 </table>
@@ -175,10 +175,10 @@ Currently pursuing my **B.Tech in Artificial Intelligence and Data Science**, I 
 
 <div align="center">
   <a href="https://github.com/kumarnallana">
-    <img src="https://github-readme-stats.vercel.app/api?username=kumarnallana&show_icons=true&theme=tokyonight&hide_border=false&border_color=27313D&title_color=38BDF8&text_color=C3CBD5&icon_color=38BDF8&bg_color=0B0F14" width="49%" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=kumarnallana&theme=tokyonight&hide_border=false&border_color=27313D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0B0F14" width="49%" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/kumarnallana">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnallana&theme=tokyonight&hide_border=false&border_color=27313D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0B0F14" width="49%" alt="GitHub Streak" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarnallana&bg_color=0B0F14&color=38BDF8&line=38BDF8&point=22C55E&area=true&hide_border=true" width="49%" alt="GitHub Activity Graph" />
   </a>
 </div>
 

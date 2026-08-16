@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Technology Registry",
+  "description": "Single Canonical Source of Truth for all Technologies, Icons, and Asset Slugs across the kumarnallana portfolio repository.",
+  "version": "1.0.0",
+  "technologies": [
+    {
+      "id": "javascript",
+      "name": "JavaScript (ES6+)",
+      "displayName": "JavaScript",
+      "category": "Languages",
+      "iconSlug": "javascript",
+      "logoColor": "F7DF1E",
+      "badgeUrl": "https://img.shields.io/badge/JavaScript-151C24?style=flat-square&logo=javascript&logoColor=F7DF1E",
+      "officialUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "displayName": "TypeScript",
+      "category": "Languages",
+      "iconSlug": "typescript",
+      "logoColor": "3178C6",
+      "badgeUrl": "https://img.shields.io/badge/TypeScript-151C24?style=flat-square&logo=typescript&logoColor=3178C6",
+      "officialUrl": "https://www.typescriptlang.org/"
+    },
+    {
+      "id": "html5",
+      "name": "HTML5",
+      "displayName": "HTML5",
+      "category": "Languages",
+      "iconSlug": "html5",
+      "logoColor": "E34F26",
+      "badgeUrl": "https://img.shields.io/badge/HTML5-151C24?style=flat-square&logo=html5&logoColor=E34F26",
+      "officialUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+      "id": "css3",
+      "name": "CSS3",
+      "displayName": "CSS3",
+      "category": "Languages",
+      "iconSlug": "css",
+      "logoColor": "1572B6",
+      "badgeUrl": "https://img.shields.io/badge/CSS3-151C24?style=flat-square&logo=css&logoColor=1572B6",
+      "officialUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "displayName": "Python",
+      "category": "Languages",
+      "iconSlug": "python",
+      "logoColor": "3776AB",
+      "badgeUrl": "https://img.shields.io/badge/Python-151C24?style=flat-square&logo=python&logoColor=3776AB",
+      "officialUrl": "https://www.python.org/"
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "displayName": "SQL",
+      "category": "Languages",
+      "iconSlug": "sqlite",
+      "logoColor": "003B57",
+      "badgeUrl": "https://img.shields.io/badge/SQL-151C24?style=flat-square&logo=sqlite&logoColor=003B57",
+      "officialUrl": "https://en.wikipedia.org/wiki/SQL"
+    },
+    {
+      "id": "react",
+      "name": "React.js",
+      "displayName": "React.js",
+      "category": "Frontend & UI Systems",
+      "iconSlug": "react",
+      "logoColor": "61DAFB",
+      "badgeUrl": "https://img.shields.io/badge/React.js-151C24?style=flat-square&logo=react&logoColor=61DAFB",
+      "officialUrl": "https://react.dev/"
+    },
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "displayName": "Next.js",
+      "category": "Frontend & UI Systems",
+      "iconSlug": "nextdotjs",
+      "logoColor": "white",
+      "badgeUrl": "https://img.shields.io/badge/Next.js-151C24?style=flat-square&logo=nextdotjs&logoColor=white",
+      "officialUrl": "https://nextjs.org/"
+    },
+    {
+      "id": "tailwindcss",
+      "name": "Tailwind CSS",
+      "displayName": "Tailwind CSS",
+      "category": "Frontend & UI Systems",
+      "iconSlug": "tailwindcss",
+      "logoColor": "38BDF8",
+      "badgeUrl": "https://img.shields.io/badge/Tailwind_CSS-151C24?style=flat-square&logo=tailwindcss&logoColor=38BDF8",
+      "officialUrl": "https://tailwindcss.com/"
+    },
+    {
+      "id": "redux",
+      "name": "Redux Toolkit",
+      "displayName": "Redux",
+      "category": "Frontend & UI Systems",
+      "iconSlug": "redux",
+      "logoColor": "764ABC",
+      "badgeUrl": "https://img.shields.io/badge/Redux-151C24?style=flat-square&logo=redux&logoColor=764ABC",
+      "officialUrl": "https://redux.js.org/"
+    },
+    {
+      "id": "bootstrap",
+      "name": "Bootstrap",
+      "displayName": "Bootstrap",
+      "category": "Frontend & UI Systems",
+      "iconSlug": "bootstrap",
+      "logoColor": "7952B3",
+      "badgeUrl": "https://img.shields.io/badge/Bootstrap-151C24?style=flat-square&logo=bootstrap&logoColor=7952B3",
+      "officialUrl": "https://getbootstrap.com/"
+    },
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "displayName": "Node.js",
+      "category": "Backend & Data Layer",
+      "iconSlug": "nodedotjs",
+      "logoColor": "5FA04E",
+      "badgeUrl": "https://img.shields.io/badge/Node.js-151C24?style=flat-square&logo=nodedotjs&logoColor=5FA04E",
+      "officialUrl": "https://nodejs.org/"
+    },
+    {
+      "id": "expressjs",
+      "name": "Express.js",
+      "displayName": "Express.js",
+      "category": "Backend & Data Layer",
+      "iconSlug": "express",
+      "logoColor": "white",
+      "badgeUrl": "https://img.shields.io/badge/Express.js-151C24?style=flat-square&logo=express&logoColor=white",
+      "officialUrl": "https://expressjs.com/"
+    },
+    {
+      "id": "nextjs-server-actions",
+      "name": "Next.js Server Actions",
+      "displayName": "Server Actions",
+      "category": "Backend & Data Layer",
+      "iconSlug": "nextdotjs",
+      "logoColor": "white",
+      "badgeUrl": "https://img.shields.io/badge/Next.js_Server_Actions-151C24?style=flat-square&logo=nextdotjs&logoColor=white",
+      "officialUrl": "https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations"
+    },
+    {
+      "id": "postgresql",
+      "name": "PostgreSQL",
+      "displayName": "PostgreSQL",
+      "category": "Backend & Data Layer",
+      "iconSlug": "postgresql",
+      "logoColor": "4169E1",
+      "badgeUrl": "https://img.shields.io/badge/PostgreSQL-151C24?style=flat-square&logo=postgresql&logoColor=4169E1",
+      "officialUrl": "https://www.postgresql.org/"
+    },
+    {
+      "id": "restapis",
+      "name": "REST APIs",
+      "displayName": "REST APIs",
+      "category": "Backend & Data Layer",
+      "iconSlug": "postman",
+      "logoColor": "FF6C37",
+      "badgeUrl": "https://img.shields.io/badge/REST_APIs-151C24?style=flat-square&logo=postman&logoColor=FF6C37",
+      "officialUrl": "https://restfulapi.net/"
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "displayName": "Git",
+      "category": "DevOps, Tooling & Testing",
+      "iconSlug": "git",
+      "logoColor": "F05032",
+      "badgeUrl": "https://img.shields.io/badge/Git-151C24?style=flat-square&logo=git&logoColor=F05032",
+      "officialUrl": "https://git-scm.com/"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "displayName": "GitHub",
+      "category": "DevOps, Tooling & Testing",
+      "iconSlug": "github",
+      "logoColor": "white",
+      "badgeUrl": "https://img.shields.io/badge/GitHub-151C24?style=flat-square&logo=github&logoColor=white",
+      "officialUrl": "https://github.com/"
+    },
+    {
+      "id": "githubactions",
+      "name": "GitHub Actions",
+      "displayName": "GitHub Actions",
+      "category": "DevOps, Tooling & Testing",
+      "iconSlug": "githubactions",
+      "logoColor": "2088FF",
+      "badgeUrl": "https://img.shields.io/badge/GitHub_Actions-151C24?style=flat-square&logo=githubactions&logoColor=2088FF",
+      "officialUrl": "https://github.com/features/actions"
+    },
+    {
+      "id": "jest",
+      "name": "Jest",
+      "displayName": "Jest",
+      "category": "DevOps, Tooling & Testing",
+      "iconSlug": "jest",
+      "logoColor": "C21325",
+      "badgeUrl": "https://img.shields.io/badge/Jest-151C24?style=flat-square&logo=jest&logoColor=C21325",
+      "officialUrl": "https://jestjs.io/"
+    },
+    {
+      "id": "postman",
+      "name": "Postman",
+      "displayName": "Postman",
+      "category": "DevOps, Tooling & Testing",
+      "iconSlug": "postman",
+      "logoColor": "FF6C37",
+      "badgeUrl": "https://img.shields.io/badge/Postman-151C24?style=flat-square&logo=postman&logoColor=FF6C37",
+      "officialUrl": "https://www.postman.com/"
+    },
+    {
+      "id": "vscode",
+      "name": "Visual Studio Code",
+      "displayName": "VS Code",
+      "category": "DevOps, Tooling & Testing",
+      "iconSlug": "vscodium",
+      "logoColor": "007ACC",
+      "badgeUrl": "https://img.shields.io/badge/VS_Code-151C24?style=flat-square&logo=vscodium&logoColor=007ACC",
+      "officialUrl": "https://code.visualstudio.com/"
+    }
+  ]
+}
