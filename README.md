@@ -1,57 +1,125 @@
 <div align="center">
 
-<!-- 100% Reliable, Self-Hosted Ultra-Premium Animated Header Banner -->
-<img src="header.svg" width="100%" alt="Sasi Kumar Nallana - Full Stack Engineer"/>
+<!-- Custom Cyber Obsidian Banner -->
+<img src="https://raw.githubusercontent.com/kumarnallana/kumarnallana/main/header.svg" width="100%" alt="Sasi Kumar Nallana - Full-Stack Engineer"/>
 
 <br/>
 
+<!-- Cyber Cyan Dynamic Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(React+%2B+Next.js);Building+Scalable+%26+Modern+Web+Apps;Ex-Web+Developer+Intern+%40+Zylxy+Technology;B.Tech+AI+%26+Data+Science+%40+KIET;Mentored+60%2B+Aspiring+Developers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+(React+%2B+Next.js+%2B+Node);AI+%26+Data+Science+Undergrad+%40+KIET;Ex-Web+Developer+Intern+%40+Zylxy+Technology;Domain-Driven+Design+%26+Clean+Architecture;Mentored+60%2B+Developers+in+CSR+Initiatives" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science%20(2028)-6a0dad?style=flat-square&labelColor=1a0b2e)
-![CGPA](https://img.shields.io/badge/CGPA-7.2-8a2be2?style=flat-square&labelColor=1a0b2e)
-![Location](https://img.shields.io/badge/Location-Kakinada%2C%20India-7c3aed?style=flat-square&labelColor=1a0b2e&logo=googlemaps&logoColor=white)
+<!-- Streamlined Cyber Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/sasi-kumar-nallana">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050811" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:sasikumarnallana956@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=050811&labelColor=050811" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kumarnallana">
+    <img src="https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=050811" alt="GitHub" />
+  </a>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasi-kumar-nallana)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasikumarnallana956@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarnallana)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kumarnallana&color=8a2be2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/kumarnallana?style=flat-square&color=6a0dad&labelColor=1a0b2e)
-![Stars](https://img.shields.io/github/stars/kumarnallana?style=flat-square&color=7c3aed&labelColor=1a0b2e)
+<!-- Live Profile Metrics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumarnallana&color=00f2fe&style=flat-square&label=Profile+Visits" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/kumarnallana?style=flat-square&color=10b981&labelColor=050811" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20AI%20%26%20Data%20Science%20(2028)-00f2fe?style=flat-square&labelColor=050811" alt="Education" />
+</p>
 
 </div>
 
 <br/>
 
-## ⟡ About Me
+---
 
-```yaml
-engineer:
-  name: "Nallana Sasi Kumar"
-  role: "Full Stack Developer & AI/DS Engineer"
-  based_in: "Kakinada, Andhra Pradesh, India"
-  experience: "Ex-Web Developer Intern @ Zylxy Technology"
-  focus:
-    - Building scalable, component-driven user interfaces with React & Next.js
-    - Designing secure REST APIs & serverless backend architectures
-    - Domain-Driven Design (DDD) & clean component modularity
-    - Mentoring developers & leading technical workshops (60+ mentored)
-  philosophy: "Build scalable, intuitive, and user-focused web solutions."
+### ⚡ Executive Summary
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🏢 Industry Experience</h4>
+      <p><b>Ex-Web Developer Intern</b><br/><i>Zylxy Technology Pvt. Ltd.</i><br/>Led frontend architecture for corporate platforms using Next.js, React, and Tailwind CSS.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💡 Technical Leadership</h4>
+      <p><b>CSR Technical Mentor</b><br/><i>CoroVidya Initiative</i><br/>Mentored <b>60+ aspiring engineers</b> across JavaScript, React, and Full-Stack development.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎓 Academic Background</h4>
+      <p><b>B.Tech in AI &amp; Data Science</b><br/><i>KIET Kakinada (2025–2028)</i><br/>CGPA: <b>7.2 / 10</b><br/>Diploma in Computer Engineering: <b>70%</b></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| Domain | Technologies &amp; Frameworks |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)`, `TypeScript`, `Python`, `HTML5`, `CSS3`, `SQL` |
+| **Frontend Engineering** | `React.js`, `Next.js (App Router / SSR)`, `Tailwind CSS`, `Redux Toolkit`, `Bootstrap` |
+| **Backend &amp; Databases** | `Node.js`, `Express.js`, `REST APIs`, `Next.js Server Actions`, `PostgreSQL` |
+| **Architecture &amp; DevOps** | `Domain-Driven Design (DDD)`, `Component-Driven UI`, `Git`, `GitHub Actions`, `Jest`, `Postman` |
+
+<br/>
+
+<!-- Modern Glassmorphism Skill Icons (Dark Theme) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,postgres,git,github,githubactions,jest,postman,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
+</p>
+
+</div>
+
+<br/>
+
+---
+
+### 🚀 Production Highlights & Work
+
+```typescript
+interface DeveloperProfile {
+  name: "Sasi Kumar Nallana";
+  focus: ["Scalable Web Architectures", "Full-Stack Web Engineering", "AI Integration"];
+  coreValues: "Clean Code, Domain Modularity, User-Centric Design";
+  currentlyBuilding: "Modern Next.js applications and AI-driven solutions";
+}
 ```
 
-I am a **Full-Stack Developer** passionate about building scalable, intuitive, and user-focused web applications. Experienced in delivering production-ready solutions while collaborating in agile environments, I previously led frontend development for corporate web apps at **Zylxy Technology** and mentored 60+ developers through their CSR initiative. Currently pursuing a **B.Tech in Artificial Intelligence & Data Science**, eager to contribute engineering excellence and continuous learning to high-impact teams.
+- **Corporate Web & CRM Micro-Platform (Zylxy Technology)**: Architected component-driven interfaces, reduced code duplication by centralizing Tailwind design tokens, and converted monolithic forms to modular DDD-inspired components.
+- **LearnersGuru Platform**: Engineered seamless course navigation and authentication interfaces with clean DOM manipulation and modern JavaScript.
+- **Student-Faculty Management Portal**: Built a role-based authentication portal with real-time validation and serverless localStorage session persistence.
+
+<br/>
+
+---
+
+### 📊 GitHub Activity & Real-Time Analytics
 
 <div align="center">
 
-**🎯 Open To:** Full Stack Developer Roles &nbsp;•&nbsp; Frontend Engineering &nbsp;•&nbsp; Open Source Collaboration &nbsp;•&nbsp; High-Impact Internships
+<!-- Custom Color-Coordinated Stat Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=kumarnallana&show_icons=true&theme=tokyonight&bg_color=050811&title_color=00f2fe&icon_color=10b981&text_color=94a3b8&border_color=00f2fe22&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnallana&theme=tokyonight&background=050811&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=94a3b8&dates=64748b&border=00f2fe22" width="48%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarnallana&layout=compact&theme=tokyonight&bg_color=050811&title_color=00f2fe&text_color=94a3b8&border_color=00f2fe22" width="55%" alt="Top Languages" />
 
 </div>
 
@@ -59,101 +127,18 @@ I am a **Full-Stack Developer** passionate about building scalable, intuitive, a
 
 ---
 
-## ⟡ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark)
-
-**Frontend & Styling**
-
-![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux&theme=dark)
-
-**Backend, Databases & APIs**
-
-![Skills](https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark)
-
-**DevOps, Testing & Tooling**
-
-![Skills](https://skillicons.dev/icons?i=git,github,githubactions,jest,postman,vscode&theme=dark)
-
-</div>
-
-<br/>
-
----
-
-## ⟡ Featured Projects & Experience
-
-<details open>
-<summary><b>⟡ Corporate Web Platform & CRM Micro-site — Zylxy Technology</b></summary>
-<br/>
-
-- Led frontend development building component-driven, scalable interfaces using **Next.js & React**.
-- Developed reusable UI components with **Tailwind CSS**, centralizing styling and reducing code duplication.
-- Integrated **Next.js Server Actions** and secure REST API lead generation workflows.
-- *Tech Stack:* `Next.js`, `React.js`, `Tailwind CSS`, `JavaScript (ES6+)`, `Git`
-</details>
-
-<details>
-<summary><b>⟡ LearnersGuru — Online Learning Platform</b></summary>
-<br/>
-
-- Designed core layouts and dynamic UI components enabling seamless course navigation.
-- Implemented secure login authentication and client-side form validation.
-- *Tech Stack:* `HTML5`, `CSS3`, `JavaScript (ES6+)`
-</details>
-
-<details>
-<summary><b>⟡ Student-Faculty Portal — Role-Based Management System</b></summary>
-<br/>
-
-- Developed a role-based authentication portal with real-time validation to streamline faculty record management.
-- Persisted authentication state serverlessly via browser localStorage.
-- *Tech Stack:* `HTML5`, `CSS3`, `JavaScript (ES6+)`
-</details>
-
-<br/>
-
----
-
-## ⟡ GitHub Analytics & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarnallana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarnallana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnallana&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarnallana&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
-</div>
-
-<br/>
-
----
-
-## ⟡ Contribution Activity
+### 🐍 Contribution Rhythm
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumarnallana/kumarnallana/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumarnallana/kumarnallana/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kumarnallana/kumarnallana/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kumarnallana/kumarnallana/output/dist/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by Sasi Kumar Nallana • Powered by GitHub Actions & Open Source</sub>
+  <sub>Engineered by <b>Sasi Kumar Nallana</b> • Built with precision &amp; modern engineering standards</sub>
 </div>
