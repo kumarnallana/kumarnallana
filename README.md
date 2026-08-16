@@ -5,40 +5,40 @@
 
   <br/><br/>
 
-  <!-- Dynamic Typing Animation -->
+  <!-- Dynamic Typing Animation (Restrained Accent) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+(React.js+%2B+Next.js+%2B+Node.js);Building+Scalable+%26+High-Performance+Web+Products;B.Tech+in+Artificial+Intelligence+%26+Data+Science;Ex-Web+Developer+Intern+%40+Zylxy+Technology;Mentored+60%2B+Aspiring+Developers+via+CSR+Initiative" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+(React.js+%2B+Next.js+%2B+Node.js);Building+Scalable+%26+High-Performance+Web+Products;B.Tech+in+Artificial+Intelligence+%26+Data+Science;Ex-Web+Developer+Intern+%40+Zylxy+Technology;Mentored+60%2B+Aspiring+Developers+via+CSR+Initiative" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Status & Quick Credentials -->
+  <!-- Unified Semantic Metadata Badges (Neutral Dark Surface + Subtle Cyan/Green Accents) -->
   <a href="https://github.com/kumarnallana">
-    <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science%20(2028)-00f2fe?style=flat-square&labelColor=050811" alt="Degree" />
+    <img src="https://img.shields.io/badge/Education-B.Tech%20AI%20%26%20Data%20Science%20(2028)-151C24?style=flat-square&labelColor=0B0F14&logo=graduation-cap&logoColor=38BDF8" alt="Degree" />
   </a>
-  <img src="https://img.shields.io/badge/CGPA-7.2-10b981?style=flat-square&labelColor=050811" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Location-Kakinada%2C%20India-38bdf8?style=flat-square&labelColor=050811&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00f2fe?style=flat-square&labelColor=050811" alt="Status" />
+  <img src="https://img.shields.io/badge/CGPA-7.2-151C24?style=flat-square&labelColor=0B0F14&logo=award&logoColor=38BDF8" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Location-Kakinada%2C%20India-151C24?style=flat-square&labelColor=0B0F14&logo=google-maps&logoColor=38BDF8" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-%E2%97%8F%20Open%20to%20Opportunities-151C24?style=flat-square&labelColor=0B0F14&logoColor=22C55E" alt="Status" />
 
   <br/><br/>
 
-  <!-- Primary CTAs -->
+  <!-- Unified Social & Contact CTA Group (Unified Elevation, Neutral Surface, Light Text) -->
   <a href="https://linkedin.com/in/sasi-kumar-nallana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-151C24?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0B0F14" alt="LinkedIn" />
   </a>
   <a href="mailto:sasikumarnallana956@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-00f2fe?style=for-the-badge&logo=gmail&logoColor=050811" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-151C24?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0B0F14" alt="Email" />
   </a>
   <a href="https://github.com/kumarnallana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-10b981?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-151C24?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0B0F14" alt="GitHub" />
   </a>
 
   <br/><br/>
 
-  <!-- Profile Telemetry -->
-  <img src="https://komarev.com/ghpvc/?username=kumarnallana&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kumarnallana?style=flat-square&color=10b981&labelColor=050811" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/kumarnallana?style=flat-square&color=38bdf8&labelColor=050811" alt="Stars" />
+  <!-- Unified Profile Telemetry -->
+  <img src="https://komarev.com/ghpvc/?username=kumarnallana&color=151C24&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kumarnallana?style=flat-square&color=151C24&labelColor=0B0F14" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kumarnallana?style=flat-square&color=151C24&labelColor=0B0F14" alt="Stars" />
 
 </div>
 
@@ -75,44 +75,44 @@ Currently pursuing my **B.Tech in Artificial Intelligence and Data Science**, I 
   <tr>
     <td width="20%" valign="top"><strong>Languages</strong></td>
     <td width="80%">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/JavaScript-151C24?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-151C24?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/HTML5-151C24?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-151C24?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Python-151C24?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-151C24?style=flat-square&logo=postgresql&logoColor=4479A1" alt="SQL" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>Frontend & UI Systems</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/Responsive_Design-00f2fe?style=flat-square&labelColor=050811" alt="Responsive Design" />
+      <img src="https://img.shields.io/badge/React.js-151C24?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+      <img src="https://img.shields.io/badge/Next.js-151C24?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-151C24?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Redux-151C24?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
+      <img src="https://img.shields.io/badge/Bootstrap-151C24?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Responsive_UI-151C24?style=flat-square&logoColor=38BDF8" alt="Responsive Design" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>Backend & Data Layer</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/Next.js_Server_Actions-000000?style=flat-square&logo=next.js&logoColor=white" alt="Server Actions" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/REST_APIs-00f2fe?style=flat-square&labelColor=050811" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/Node.js-151C24?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-151C24?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Next.js_Server_Actions-151C24?style=flat-square&logo=nextdotjs&logoColor=white" alt="Server Actions" />
+      <img src="https://img.shields.io/badge/PostgreSQL-151C24?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/REST_APIs-151C24?style=flat-square&logoColor=38BDF8" alt="REST APIs" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>DevOps, Tooling & Testing</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Git-151C24?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-151C24?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-151C24?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Jest-151C24?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
+      <img src="https://img.shields.io/badge/Postman-151C24?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+      <img src="https://img.shields.io/badge/VS_Code-151C24?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
     </td>
   </tr>
 </table>
@@ -175,10 +175,10 @@ Currently pursuing my **B.Tech in Artificial Intelligence and Data Science**, I 
 
 <div align="center">
   <a href="https://github.com/kumarnallana">
-    <img src="https://github-readme-stats.vercel.app/api?username=kumarnallana&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f2fe&title_color=00f2fe&text_color=94a3b8&icon_color=10b981&bg_color=050811" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kumarnallana&show_icons=true&theme=tokyonight&hide_border=false&border_color=27313D&title_color=38BDF8&text_color=C3CBD5&icon_color=38BDF8&bg_color=0B0F14" width="49%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/kumarnallana">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnallana&theme=tokyonight&hide_border=false&border_color=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=050811" width="49%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnallana&theme=tokyonight&hide_border=false&border_color=27313D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0B0F14" width="49%" alt="GitHub Streak" />
   </a>
 </div>
 
