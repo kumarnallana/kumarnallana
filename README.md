@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6a0dad,100:8a2be2&height=220&section=header&text=Sasi%20Kumar%20Nallana&fontSize=48&fontColor=e0d4ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<!-- 100% Reliable, Self-Hosted Ultra-Premium Animated Header Banner -->
+<img src="header.svg" width="100%" alt="Sasi Kumar Nallana - Full Stack Engineer"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(React+%2B+Next.js);Building+Scalable+%26+Modern+Web+Apps;Ex-Web+Developer+Intern+%40+Zylxy+Technology;B.Tech+AI+%26+Data+Science+%40+KIET;Mentored+60%2B+Aspiring+Developers" alt="Typing SVG" />
