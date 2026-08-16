@@ -80,7 +80,6 @@ Currently pursuing my **B.Tech in Artificial Intelligence and Data Science**, I 
       <img src="https://img.shields.io/badge/HTML5-151C24?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-151C24?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
       <img src="https://img.shields.io/badge/Python-151C24?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-151C24?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQL" />
     </td>
   </tr>
   <tr>
@@ -101,7 +100,7 @@ Currently pursuing my **B.Tech in Artificial Intelligence and Data Science**, I 
       <img src="https://img.shields.io/badge/Express.js-151C24?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/Next.js_Server_Actions-151C24?style=flat-square&logo=nextdotjs&logoColor=white" alt="Server Actions" />
       <img src="https://img.shields.io/badge/PostgreSQL-151C24?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/REST_APIs-151C24?style=flat-square&logo=postman&logoColor=FF6C37" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/REST_APIs-151C24?style=flat-square&logo=openapiinitiative&logoColor=6BA539" alt="REST APIs" />
     </td>
   </tr>
   <tr>

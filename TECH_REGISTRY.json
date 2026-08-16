@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Technology Registry",
   "description": "Single Canonical Source of Truth for all Technologies, Icons, and Asset Slugs across the kumarnallana portfolio repository.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "technologies": [
     {
       "id": "javascript",
@@ -53,16 +53,6 @@
       "logoColor": "3776AB",
       "badgeUrl": "https://img.shields.io/badge/Python-151C24?style=flat-square&logo=python&logoColor=3776AB",
       "officialUrl": "https://www.python.org/"
-    },
-    {
-      "id": "sql",
-      "name": "SQL",
-      "displayName": "SQL",
-      "category": "Languages",
-      "iconSlug": "sqlite",
-      "logoColor": "003B57",
-      "badgeUrl": "https://img.shields.io/badge/SQL-151C24?style=flat-square&logo=sqlite&logoColor=003B57",
-      "officialUrl": "https://en.wikipedia.org/wiki/SQL"
     },
     {
       "id": "react",
@@ -159,10 +149,10 @@
       "name": "REST APIs",
       "displayName": "REST APIs",
       "category": "Backend & Data Layer",
-      "iconSlug": "postman",
-      "logoColor": "FF6C37",
-      "badgeUrl": "https://img.shields.io/badge/REST_APIs-151C24?style=flat-square&logo=postman&logoColor=FF6C37",
-      "officialUrl": "https://restfulapi.net/"
+      "iconSlug": "openapiinitiative",
+      "logoColor": "6BA539",
+      "badgeUrl": "https://img.shields.io/badge/REST_APIs-151C24?style=flat-square&logo=openapiinitiative&logoColor=6BA539",
+      "officialUrl": "https://www.openapis.org/"
     },
     {
       "id": "git",
